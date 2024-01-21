@@ -1,4 +1,4 @@
-baseURL = 'https://writings.longfin.me/'
+baseURL = 'https://writings.longfin.xyz/'
 languageCode = 'ko-KR'
 title = 'Writings by longfin'
 theme = 'ananke'
