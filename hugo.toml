@@ -1,0 +1,7 @@
+baseURL = 'https://writings.longfin.me/'
+languageCode = 'ko-KR'
+title = 'Writings by longfin'
+theme = 'ananke'
+
+[permalinks]
+posts = "/:year/:month/:filename/"
